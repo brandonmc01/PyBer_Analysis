@@ -11,7 +11,7 @@ The purpose of this project was to analyze ride-share data for 2019 and deliver 
 ## Results
 Using the summary data frame showing different Fare statistics for each city type we can see clear trends for ride-share use, as well as cost. Ride-share use is highest in Urban areas, followed by suburban, and then rural areas. This is consistent with population density. This is also consistent with the highest total fares in Urban areas, followed by suburban, and rural areas. Where we see the most interesting trend, is in the average fare per ride analysis. Here we see that the average fare is highest in rural areas, followed by suburban, and cheapest in urban areas. This is also consistent with the highest average fare per driver being in rural areas, followed by suburban, and then urban areas. The likely explanation for this is simply supply and demand. There are far more drivers in rrban areas, thus a higher supply, so the rate is lower. In rural areas, there are few drivers, i.e. low supply, which amounts to high rates.
 
-![summary_dataframe](analysis/summary_DataFrame.PNG)
+![summary_dataframe](Anaylsis/Summary_DataFrame.png)
 
 Using the multiple-line chart, we can visualize the trend of higher total fares earned by the ride-share company in urban areas, compared to suburban, and rural areas. As stated before, this is likely caused by far more rides being taken in Urban areas due to increased population density. 
 
