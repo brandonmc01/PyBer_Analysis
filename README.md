@@ -17,7 +17,7 @@ Using the multiple-line chart, we can visualize the trend of higher total fares 
 
 Using the chart, we can also see a spike in fares for all city types at the end of February, especially in suburban areas. 
 
-![PyBer_far_summary](analysis/PyBer_Fare_Summary.png)
+![PyBer_far_summary](Anaylsis/PyBer_Fare_Summary.png)
 
 ## Summary
 
